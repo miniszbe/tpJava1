@@ -7,7 +7,8 @@
  */
 public class Corpus
 {
-    // instance variables - replace the example below with your own
+    String Statut;
+    int Position;
 
     public Corpus(String p_Statut, int p_Position)
     {
