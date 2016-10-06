@@ -7,6 +7,8 @@
  */
 public class SiteWeb
 {
+    String Adresse;
+    
     public SiteWeb(string p_adressWeb)
     {
         this.Adresse = p_adressWeb;
